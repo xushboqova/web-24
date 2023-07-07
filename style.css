@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;1,400&family=Roboto&family=Ubuntu&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.web-24 {
+    max-width: 1366px;
+    background: #02011E;
+    margin: 0 auto;
+    height: 601px;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+nav img {
+    margin-top: 38px;
+    margin-left: 103px;
+}
+
+.menu {
+    display: flex;
+    gap: 37px;
+    margin-top: 45px;
+    margin-right: 103px;
+    align-items: center;
+
+
+}
+
+.menu li a {
+    color: #FFF;
+    /* font-family: Manrope; */
+    font-size: 14px;
+    font-weight: 500;
+
+}
+
+.button1 {
+    border-radius: 39px;
+    background: #1B193F;
+    border: none;
+    padding: 11px 35px;
+}
+
+.button1 p {
+    color: #FFF;
+    /* font-family: Manrope; */
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.logo-left h1 {
+    color: #FFF;
+    font-size: 55px;
+    font-weight: 500;
+    margin-left: 103px;
+    padding-top: 115px;
+}
+
+.logo-left p {
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    opacity: 0.6000000238418579;
+    margin-left: 103px;
+    padding-top: 43px;
+    padding-bottom: 43px;
+}
+
+
+.div1{
+    background: rgba(255, 255, 255, 0.16);
+
+   height: 41px;
+    width: 352px;
+    margin-left: 103px;
+    border-radius: 31px;
+  }
+  
+  input{
+    background: transparent;
+    border: none;
+    padding: 11px 63px 11px 25px ;
+    outline: none;
+    color: #fff;
+    
+  }
+
+  button{
+    padding: 13px 26px;
+    border-radius: 31px;
+    border: none;
+  }
+  button p{
+    color: #02011E;
+font-size: 14px;
+font-weight: 500;
+  }
+
